@@ -66,6 +66,11 @@ const DefaultConfig = {
         maxListeners: 2
       }
     },
+    rendezvous: {
+      server: {
+        enabled: false
+      }
+    },
     transport: {}
   }
 }
